@@ -8,5 +8,5 @@ const sumArray = (numbers: number[]): number => {
   return sum;
 };
 
-const resulsOfArrayNumbers = sumArray([1, 2, 3, 4, 5]);
-console.log(resulsOfArrayNumbers);
+const sumOfNumbers = sumArray([1, 2, 3]);
+console.log(sumOfNumbers);
