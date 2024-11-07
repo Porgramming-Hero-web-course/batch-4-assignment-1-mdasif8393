@@ -15,7 +15,7 @@ const countWordOccurrences = (sentence: string, word: string): number => {
 };
 
 const duplicateWordCount = countWordOccurrences(
-  "TypeScript is great. I love TypeScript !",
+  "I love typeScript",
   "typeScript"
 );
 
