@@ -11,5 +11,5 @@ const removeDuplicates = (numbers: number[]): number[] => {
   return uniqueArray;
 };
 
-const uniqueArray = removeDuplicates([1, 2, 2, 3, 4, 4, 5, 5, 55, 5]);
+const uniqueArray = removeDuplicates([1, 2, 2, 3, 4, 4, 5]);
 console.log(uniqueArray);
